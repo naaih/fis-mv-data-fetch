@@ -138,7 +138,3 @@ the script loops over the `FEEDS` dictionary (arrivals and departures), fetching
 
 - the xml feeds reflect live data and update periodically at the source — this script simply reflects a single point-in-time snapshot each time it's run.
 - no data is cached or stored between runs; for historical tracking, results would need to be logged to a file or database separately.
-
-## license
-
-mit (or update this section with your preferred license)
